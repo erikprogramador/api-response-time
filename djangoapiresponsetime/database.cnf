@@ -1,0 +1,5 @@
+[client]
+database = api_response_time
+user = root
+password = secret
+default-character-set = utf8
